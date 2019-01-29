@@ -7,9 +7,9 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/hubert-heijkers/GoThink2018/builder/helpers/odata"
-	"github.com/hubert-heijkers/GoThink2018/builder/northwind"
-	"github.com/hubert-heijkers/GoThink2018/builder/tm1"
+	"github.com/hubert-heijkers/GoThink2019/builder/helpers/odata"
+	"github.com/hubert-heijkers/GoThink2019/builder/northwind"
+	"github.com/hubert-heijkers/GoThink2019/builder/tm1"
 )
 
 type ordersCubeDataLoad struct {

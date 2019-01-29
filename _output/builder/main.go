@@ -9,9 +9,9 @@ import (
 	"net/http/cookiejar"
 	"os"
 
-	"github.com/hubert-heijkers/GoThink2018/builder/helpers/odata"
-	proc "github.com/hubert-heijkers/GoThink2018/builder/processes"
-	"github.com/hubert-heijkers/GoThink2018/builder/tm1"
+	"github.com/hubert-heijkers/GoThink2019/builder/helpers/odata"
+	proc "github.com/hubert-heijkers/GoThink2019/builder/processes"
+	"github.com/hubert-heijkers/GoThink2019/builder/tm1"
 	"github.com/joho/godotenv"
 )
 

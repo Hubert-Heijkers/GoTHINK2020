@@ -1,8 +1,8 @@
 package processes
 
 import (
-	"github.com/hubert-heijkers/GoThink2018/builder/helpers/odata"
-	"github.com/hubert-heijkers/GoThink2018/builder/tm1"
+	"github.com/hubert-heijkers/GoThink2019/builder/helpers/odata"
+	"github.com/hubert-heijkers/GoThink2019/builder/tm1"
 )
 
 // GenerateMeasuresDimension generates, based on the data from the northwind database, the dimension definition for the time dimension
