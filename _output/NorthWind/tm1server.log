@@ -1,0 +1,130 @@
+﻿8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Windows reports the locale as English (United States)
+8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Server Name: NorthWind
+8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Data Directory: c:\hol-tm1sdk\models\northwind
+8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Admin Host: IBMWIN10
+8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Logging Directory: c:\hol-tm1sdk\models\northwind
+8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Raw Store Directory:c:\hol-tm1sdk\models\northwind
+8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Configuration Directory: c:\hol-tm1sdk\models\northwind
+8576   []   INFO   2019-01-29 09:42:55.469   TM1.Server   Port: 12222
+8576   []   INFO   2019-01-29 09:42:55.484   TM1.Server   Client Message Port: Dynamic
+8576   []   INFO   2019-01-29 09:42:55.484   TM1.Server   HTTP Port: 8088
+8576   []   INFO   2019-01-29 09:42:55.484   TM1.Server   IP Version: ipv4
+8576   []   INFO   2019-01-29 09:42:55.484   TM1.Server   SSL Mode: 0
+8576   []   INFO   2019-01-29 09:42:55.484   TM1.Server   Security Mode: 1
+8576   []   INFO   2019-01-29 09:42:55.484   TM1.Server   Use Generic Login Connect Error: 0
+8576   []   INFO   2019-01-29 09:42:55.484   TM1.Server   Start time: Tue Jan 29 2019     01:42:55
+8576   []   ERROR   2019-01-29 09:42:55.484   TM1.Server   Failure initializing Performance Monitor: 8007000e
+8576   []   INFO   2019-01-29 09:42:55.531   TM1.Server   Windows reports the locale as English (United States)
+8576   []   INFO   2019-01-29 09:42:55.531   TM1.Server   Windows reports the locale as English (United States)
+8576   []   INFO   2019-01-29 09:42:56.094   TM1.Server    The server will use Parallel Interaction.
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    Client Message Port does not accept Tm1Top connections.
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    SmartCache is disabled
+3212   []   INFO   2019-01-29 09:42:56.109   TM1.Server   Starting HTTP Session Timeout thread.  Thread Id: 3212
+3880   []   INFO   2019-01-29 09:42:56.109   TM1.Server   Dynamic Client Message Port: 63327
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MTQ is enabled with 4 threads
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    AllowReadOnlyChoreReschedule is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    AllowSeparateNandCRules is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    AllRuleCalcStargateOptimization is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ApplyMaximumViewSizeToEntireTransaction is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    Audit Log is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    AutomaticallyAddCubeDependencies is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    CacheFriendlyMalloc is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    CalculationThresholdForStorage is set to 50
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    CheckFeedersMaximumCells is set to 3000000
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ClientPropertiesSyncInterval is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ClientVersionMaximum is set to 110500000
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ClientVersionMinimum is set to 80000001
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ClientVersionPrecision is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    DefaultMeasuresDimension is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    DisableMemoryCache is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    DisableSandboxing is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    DISPLAY_INFO_DBTYPE_R8 is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    Excel Web Publish is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ForceReevaluationOfFeedersForFedCellsOnDataChange is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    HTTPSessionTimeoutMinutes is set to 180
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    IdleConnectionTimeOutSeconds is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    JobQueuing is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    Language is set to eng
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    LDAPPort is set to 389
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    LDAPSearchField is set to cn
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    LDAPSkipSSLCertVerification is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    LDAPSkipSSLCRLVerification is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    LDAPUseServerAccount is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    LDAPVerifyServerSSLCert is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    LogReleaseLineCount is set to 5000
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MagnitudeDifferenceToBeZero is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaskUserNameInServerTools is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaximumCubeLoadThreads is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaximumLoginAttempts is set to 3
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaximumMemoryForSubsetUndo is set to 10240
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaximumSynchAttempts is set to 1
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaximumTILockObjects is set to 2000
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaximumUserSandboxSize is set to 500
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MaximumViewSize is set to 500
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MessageCompression is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MTQ.ImmediateCheckForSplit is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MTQ.OperationProgressCheckSkipLoopSize is set to 10000
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    MTQ.SingleCellConsolidation is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    NetRecvBlockingWaitLimitSeconds is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    NetRecvMaxClientIOWaitWithinAPIsSeconds is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    OracleErrorForceRowStatus is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    PasswordMinimumLength is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    PerfMonIsActive is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    PerformanceMonitorOn is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    PersistentFeeders is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ProgressMessage is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ProportionSpreadToZeroCells is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ReceiveProgressResponseTimeoutSecs is set to 0
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    RulesOverwriteCellsOnLoad is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    SkipLoadingAliases is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    SpreadingPrecision is set to 1.000000e-008
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    SubsetElementBreatherCount is set to -1
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    SyncUnitSize is set to 1000
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    TM1ConnectorforSAP is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    UnicodeUpperLowerCase is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    UseLocalCopiesForPublicDynamicSubsets is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    UseNewConnectorforSAP is disabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    UserDefinedCalculations is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    SQL fetch type is unspecified
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    UseStargateForRules is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ViewConsolidationOptimization is enabled
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ViewConsolidationOptimizationMethod is set to TREE
+8576   []   INFO   2019-01-29 09:42:56.109   TM1.Server    ZeroWeightOptimization is enabled
+8500   []   INFO   2019-01-29 09:42:56.109   TM1.Server   --------------------Session Start--------------------
+8500   []   INFO   2019-01-29 09:42:56.109   TM1.Server   TM1 Build Number:  11.5.00000.11111
+8500   []   INFO   2019-01-29 09:42:56.156   TM1.Server   Using Persistent Feeders
+8500   []   INFO   2019-01-29 09:42:57.437   TM1.Server    Cube loads are single threaded
+8500   []   INFO   2019-01-29 09:42:57.578   TM1.Security   Security Upgrade performed on all processes
+8500   []   INFO   2019-01-29 09:42:57.719   TM1.Server   TM1CubeImpl::ProcessFeeders: Computing feeders for base cube '}StatsByClient'.
+8500   []   INFO   2019-01-29 09:42:57.719   TM1.Server   TM1CubeImpl::ProcessFeeders(in 0ms): Done computing feeders for base cube '}StatsByClient'.
+6796   []   INFO   2019-01-29 09:42:57.843   TM1.Server   Starting PseudoElement thread.  Thread Id: 6796
+560   []   INFO   2019-01-29 09:42:57.843   TM1.Server   Starting RebuildFacetModel thread.  Thread Id: 560
+7164   []   INFO   2019-01-29 09:42:57.843   TM1.Server   Starting unregistered cleanup thread.  Thread Id: 7164
+840   []   INFO   2019-01-29 09:42:57.843   TM1.Server   Starting spy thread.  Thread Id: 840
+8500   []   INFO   2019-01-29 09:42:57.843   TM1.Server   TM1 Server load time (secs) = 1
+2128   []   INFO   2019-01-29 09:42:57.843   TM1.Server   Error retrieving product information from swidtag file: The swidtag folder "C:\Program Files\ibm\cognos\tm1_64\bin64\..\swidtag\" does not contain a software id tag file for product "IBM TM1".
+8576   []   INFO   2019-01-29 09:43:01.140   TM1.Server    Notifying the Admin server
+3996   []   INFO   2019-01-29 09:43:01.156   TM1.Server   Starting Admin Server poller thread. Thread Id: 3996. For Admin server: IBMWIN10, LocalServer: False
+8576   []   INFO   2019-01-29 09:43:01.156   TM1.Server    TM1 Server is ready, elapsed time 7.00 seconds
+7852   [2]   INFO   2019-01-30 02:13:00.240   TM1.Server   TM1CubeImpl::ProcessFeeders: Computing feeders for base cube 'Sales'.
+7852   [2]   INFO   2019-01-30 02:13:00.240   TM1.Server   TM1CubeImpl::ProcessFeeders(in 0ms): Done computing feeders for base cube 'Sales'.
+1228   [1]   ERROR   2019-01-30 02:13:01.076   TM1.Transaction   TM1TransactionLog::GetNextLines: Starts from tm1s, over 500 bad transaction records found, transaction log searching stopped.
+8576   []   INFO   2019-01-30 02:23:42.865   TM1.Server   Closing...
+8576   []   INFO   2019-01-30 02:23:45.538   TM1.Server   Saving...
+8576   []   INFO   2019-01-30 02:23:45.538   TM1.Server   The server is coming down...
+7164   []   INFO   2019-01-30 02:23:45.538   TM1.Server   Terminating unregistered cleanup thread.
+8576   []   INFO   2019-01-30 02:23:45.850   TM1.Server   TM1ServerImpl::Destroy: Deactive all chores
+3996   []   INFO   2019-01-30 02:23:45.866   TM1.Server   Terminating Admin Server poller thread.
+8576   []   INFO   2019-01-30 02:23:45.866   TM1.Server   TM1ServerImpl::Destroy: Save server data
+8576   []   INFO   2019-01-30 02:23:46.147   TM1.Server   TM1ServerImpl::Destroy: destroy chores
+8576   []   INFO   2019-01-30 02:23:46.147   TM1.Server   TM1ServerImpl::Destroy: destroy processes
+8576   []   INFO   2019-01-30 02:23:46.147   TM1.Server   TM1ServerImpl::Destroy: destroy blobs
+8576   []   INFO   2019-01-30 02:23:46.147   TM1.Server   TM1ServerImpl::Destroy: destroy sets
+8576   []   INFO   2019-01-30 02:23:46.147   TM1.Server   TM1ServerImpl::Destroy: destroy groups
+8576   []   INFO   2019-01-30 02:23:46.147   TM1.Server   TM1ServerImpl::Destroy: destroy clients
+8576   []   INFO   2019-01-30 02:23:46.147   TM1.Server   TM1ServerImpl::Destroy: destroy cubes
+8576   []   INFO   2019-01-30 02:23:46.163   TM1.Server   TM1ServerImpl::Destroy: destroy dimensions
+8576   []   INFO   2019-01-30 02:23:46.163   TM1.Server   TM1ServerImpl::Destroy: destroy connections
+8576   []   INFO   2019-01-30 02:23:46.163   TM1.Server   TM1ServerImpl::Destroy: Destroy unregistered objects
+8576   []   INFO   2019-01-30 02:23:46.163   TM1.Server   TM1ServerImpl::Destroy: Commit changes
+8576   []   INFO   2019-01-30 02:23:46.241   TM1.Server   Server shutdown, elapsed time 1.00 seconds
