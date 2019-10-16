@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/hubert-heijkers/GoThink2019/builder/helpers/odata"
-	"github.com/hubert-heijkers/GoThink2019/builder/northwind"
-	"github.com/hubert-heijkers/GoThink2019/builder/tm1"
+	"github.com/hubert-heijkers/GoDAIF2019/builder/northwind"
+	"github.com/hubert-heijkers/GoDAIF2019/common/odata"
+	"github.com/hubert-heijkers/GoDAIF2019/common/tm1"
 )
 
 // GenerateTimeDimension generates, based on the data from the northwind database, the dimension definition for the time dimension
