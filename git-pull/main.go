@@ -9,7 +9,7 @@ import (
 	"net/http/cookiejar"
 	"os"
 
-	"github.com/hubert-heijkers/GoDAIF2019/common/odata"
+	"github.com/hubert-heijkers/GoTHINK2020/common/odata"
 	"github.com/joho/godotenv"
 )
 

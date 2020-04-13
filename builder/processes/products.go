@@ -5,9 +5,9 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/hubert-heijkers/GoDAIF2019/builder/northwind"
-	"github.com/hubert-heijkers/GoDAIF2019/common/odata"
-	"github.com/hubert-heijkers/GoDAIF2019/common/tm1"
+	"github.com/hubert-heijkers/GoTHINK2020/builder/northwind"
+	"github.com/hubert-heijkers/GoTHINK2020/common/odata"
+	"github.com/hubert-heijkers/GoTHINK2020/common/tm1"
 )
 
 type productDimension struct {
